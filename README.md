@@ -6,7 +6,8 @@ You can view the CV or download it by visiting the following URL:
 
 To view or download the CV, click the link below:  
 **Project URL**: https://github.com/Jakhaishya/FrontendDeveloper/commit/b1bb4b90002547f6167ba7ab305ec5c77b3cca9b
-[Uploading index.html…<!DOCTYPE html>
+[Uploading index.html…
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -76,7 +77,7 @@ Collaboration & Communication </p>
 <a href="https://github.com/Jakhaishya">Github</a>
 <a href="https://dribbble.com/Jakhaishya">Dribbble</a>
 </body>
-</html>]()
+</html>]
 
 
 ---
