@@ -4,7 +4,8 @@ This is my personal CV created using HTML
 You can view the CV or download it by visiting the following URL:
 
 To view or download the CV, click the link below:  
-**[CV Project URL](file:///C:/Users/USER/Desktop/FrontendDeveloper/index.html)**
+**Project URL**: [https://github.com/Jakhaishya/file:///C:/Users/USER/Desktop/FrontendDeveloper/index.html](https://github.com/Jakhaishya/file:///C:/Users/USER/Desktop/FrontendDeveloper/index.html)
+
 
 ---
 
