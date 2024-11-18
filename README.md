@@ -23,7 +23,7 @@ line-height: 0.1;
 <body>
   <h1>Jakhaishya Dowarah</h1>
 <h4 style = "color: green;">Junior Frontend Developer</h4>
-<p>Guwahati, Assam</p>
+<p>Bangalore, Karnataka</p>
 <p>8638007205</p>
 <p>jakhaishya08@gmail.com</p>
 
